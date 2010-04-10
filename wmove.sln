@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C++ Express 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wmplus", "wmplus\wmplus.vcproj", "{DF3BD486-3650-4548-806E-F5F32BB74F23}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wmove", "wmove\wmove.vcproj", "{DF3BD486-3650-4548-806E-F5F32BB74F23}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wmhooks", "wmhooks\wmhooks.vcproj", "{99C22C22-2379-4EF1-A741-1D657A0D153C}"
 EndProject

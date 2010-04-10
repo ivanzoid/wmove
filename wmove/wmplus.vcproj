@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9,00"
-	Name="wmplus"
+	Name="wmove"
 	ProjectGUID="{DF3BD486-3650-4548-806E-F5F32BB74F23}"
-	RootNamespace="wmplus"
+	RootNamespace="wmove"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
 	>
