@@ -1,0 +1,11 @@
+syntax: glob
+*.ncb
+*.suo
+*~
+*.obj
+*Release
+*release
+*Debug
+*debug
+*.user
+
